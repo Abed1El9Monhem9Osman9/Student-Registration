@@ -1,0 +1,17 @@
+C:\Users\boud-\Downloads\2nd Semester\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.dll
+C:\Users\boud-\Downloads\2nd Semester\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.pdb
+C:\Users\boud-\Downloads\2nd Semester\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\boud-\Downloads\2nd Semester\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+C:\Users\boud-\Downloads\2nd Semester\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+C:\Users\boud-\Downloads\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.dll
+C:\Users\boud-\Downloads\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.pdb
+C:\Users\boud-\Downloads\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+C:\Users\boud-\Downloads\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+C:\Users\boud-\Downloads\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.dll.config
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.dll
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\bin\StudentRegistration.pdb
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojAssemblyReference.cache
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+D:\Desktop\3rdYear\2nd Semestr\I3332\Projects\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
